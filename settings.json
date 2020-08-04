@@ -1,0 +1,37 @@
+{
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "file-icons",
+  "workbench.colorTheme": "Ayu Light",
+  "purescript.addSpagoSources": true,
+  "purescript.editorMode": true,
+  "purescript.pscIdelogLevel": "debug",
+  "window.zoomLevel": 2,
+  "explorer.confirmDragAndDrop": false,
+  "discord.workspaceElapsedTime": true,
+  "discord.detailsEditing": "Editing {filename} 🚰",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "cSpell.userWords": ["adriel", "matei", "mateiadrielrafael", "tsdx"],
+  // "workbench.activityBar.visible": false,
+  "license.author": "Matei Adriel",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "todo-tree.tree.showScanModeButton": false,
+  "todo-tree.highlights.enabled": false,
+  "todohighlight.keywords": [
+    {
+      "text": "WARNING:",
+      "backgroundColor": "#db7c00",
+      "color": "#fff"
+    },
+    "NOTE:"
+  ],
+  "todohighlight.include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.html",
+    "**/*.css",
+    "**/*.scss",
+    "**/*.purs"
+  ],
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
