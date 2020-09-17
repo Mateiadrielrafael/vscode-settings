@@ -7,6 +7,8 @@
 	"bierner.lit-html",
 	"brettm12345.nixfmt-vscode",
 	"bungcip.better-toml",
+	"CoenraadS.bracket-pair-colorizer-2",
+	"dbaeumer.vscode-eslint",
 	"DigitalBrainstem.javascript-ejs-support",
 	"eamodio.gitlens",
 	"esbenp.prettier-vscode",
