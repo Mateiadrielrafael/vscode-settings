@@ -33,5 +33,6 @@
     "**/*.scss",
     "**/*.purs"
   ],
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.shell.linux": "/nix/store/4xb9z8vvk3fk2ciwqh53hzp72d0hx1da-bash-interactive-4.4-p23/bin/bash"
 }
