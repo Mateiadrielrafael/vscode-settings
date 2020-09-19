@@ -11,7 +11,13 @@
   "discord.detailsEditing": "Editing {filename} 🚰",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "cSpell.userWords": ["adriel", "matei", "mateiadrielrafael", "tsdx"],
+  "cSpell.userWords": [
+    "adriel",
+    "kirrus",
+    "matei",
+    "mateiadrielrafael",
+    "tsdx"
+  ],
   "workbench.activityBar.visible": false,
   "license.author": "Matei Adriel",
   "typescript.updateImportsOnFileMove.enabled": "always",
