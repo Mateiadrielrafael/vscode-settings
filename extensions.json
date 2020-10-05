@@ -25,7 +25,6 @@
 	"nwolverson.ide-purescript",
 	"nwolverson.language-purescript",
 	"panaeon.dhall-lang",
-	"panaeon.vscode-dhall-lsp-server",
 	"Perkovec.emoji",
 	"ritwickdey.LiveServer",
 	"RobbOwen.synthwave-vscode",
