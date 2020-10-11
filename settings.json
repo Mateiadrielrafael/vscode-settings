@@ -5,7 +5,7 @@
   "purescript.addSpagoSources": true,
   "purescript.editorMode": true,
   "purescript.pscIdelogLevel": "debug",
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 1,
   "explorer.confirmDragAndDrop": false,
   "discord.workspaceElapsedTime": true,
   "discord.detailsEditing": "Editing {filename} 🚰",
