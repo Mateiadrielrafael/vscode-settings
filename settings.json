@@ -29,6 +29,7 @@
   "explorer.compactFolders": false,
   "explorer.incrementalNaming": "smart",
   "explorer.sortOrder": "type",
+  "explorer.openEditors.visible": 0,
   "license.author": "Matei Adriel",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "todo-tree.tree.showScanModeButton": false,
