@@ -65,5 +65,10 @@
       "before": ["j", "j"],
       "after": ["<Esc>"]
     }
-  ]
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false
+  }
 }
