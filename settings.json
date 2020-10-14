@@ -22,6 +22,8 @@
   "workbench.settings.editor": "json",
   "workbench.tips.enabled": false,
   "workbench.tree.indent": 4,
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.scrollToSwitchTabs": true,
   "license.author": "Matei Adriel",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "todo-tree.tree.showScanModeButton": false,
