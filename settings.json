@@ -75,10 +75,6 @@
     {
       "before": ["Z", "Z"],
       "commands": [":wq"]
-    },
-    {
-      "before": ["g", "a"],
-      "after": ["<C-.>"]
     }
   ]
 }
