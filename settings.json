@@ -70,5 +70,11 @@
   "vim.handleKeys": {
     "<C-a>": false,
     "<C-f>": false
-  }
+  },
+  "vim.normalModeKeyBindings": [
+    {
+      "before": ["Z", "Z"],
+      "commands": [":wq"]
+    }
+  ]
 }
