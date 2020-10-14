@@ -19,7 +19,9 @@
     "tsdx"
   ],
   "workbench.activityBar.visible": false,
-  "workbench.panel.defaultLocation": "right",
+  "workbench.settings.editor": "json",
+  "workbench.tips.enabled": false,
+  "workbench.tree.indent": 4,
   "license.author": "Matei Adriel",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "todo-tree.tree.showScanModeButton": false,
