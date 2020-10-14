@@ -1,0 +1,30 @@
+{
+	"syncer": "repo",
+	"repo": {
+		"url": "https://github.com/Mateiadrielrafael/vscode-settings",
+		"profiles": [
+			{
+				"branch": "master",
+				"name": "main"
+			}
+		],
+		"currentProfile": "main"
+	},
+	"file": {
+		"path": ""
+	},
+	"ignoredItems": [
+		"**/workspaceStorage",
+		"**/globalStorage/state.vscdb*",
+		"**/globalStorage/arnohovhannisyan.syncify/repo",
+		"**/globalStorage/ms-vsliveshare.vsliveshare",
+		"**/globalStorage/haskell.haskell",
+		"**/.git"
+	],
+	"autoUploadDelay": 20,
+	"watchSettings": true,
+	"syncOnStartup": true,
+	"hostname": "",
+	"forceDownload": false,
+	"forceUpload": false
+}

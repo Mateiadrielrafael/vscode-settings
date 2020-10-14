@@ -19,6 +19,7 @@
     "tsdx"
   ],
   "workbench.activityBar.visible": false,
+  "workbench.panel.defaultLocation": "right",
   "license.author": "Matei Adriel",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "todo-tree.tree.showScanModeButton": false,
