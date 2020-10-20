@@ -1,4 +1,9 @@
 {
+  "Derive newtype instance": {
+    "prefix": "nderive",
+    "description": "Use newtype deriving on any typeclass",
+    "body": "derive newtype instance $1$2 ::$0 $3 $2"
+  },
   "Generate json instances": {
     "prefix": "json",
     "description": "Generate the deriving of the EncodeJson and DecodeJson typeclasses",
