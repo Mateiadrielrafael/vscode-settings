@@ -1,22 +1,4 @@
 {
-  "editor.formatOnSave": true,
-  "workbench.iconTheme": "file-icons",
-  "workbench.colorTheme": "Ayu Light",
-  "purescript.addSpagoSources": true,
-  "purescript.editorMode": true,
-  "purescript.pscIdelogLevel": "debug",
-  "window.zoomLevel": 2,
-  "discord.workspaceElapsedTime": true,
-  "discord.detailsEditing": "Editing {filename} 🚰",
-  "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true,
-  "cSpell.userWords": [
-    "adriel",
-    "kirrus",
-    "matei",
-    "mateiadrielrafael",
-    "tsdx"
-  ],
   "workbench.activityBar.visible": false,
   "workbench.settings.editor": "json",
   "workbench.tips.enabled": false,
@@ -24,19 +6,30 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.untitled.labelFormat": "content",
   "workbench.editor.labelFormat": "short",
-  "editor.formatOnType": true,
-  "editor.minimap.enabled": false,
-  "editor.tabCompletion": "on",
   "workbench.editor.showTabs": false,
+  "workbench.iconTheme": "file-icons",
+  "workbench.colorTheme": "Ayu Light",
   "explorer.autoReveal": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
   "explorer.incrementalNaming": "smart",
   "explorer.sortOrder": "type",
   "explorer.openEditors.visible": 0,
+  "editor.formatOnType": true,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.tabCompletion": "on",
+  "purescript.addSpagoSources": true,
+  "purescript.editorMode": true,
+  "purescript.pscIdelogLevel": "debug",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "discord.workspaceElapsedTime": true,
+  "discord.detailsEditing": "Editing {filename} 🚰",
+  "window.zoomLevel": 2,
   "license.author": "Matei Adriel",
   "extensions.showRecommendationsOnlyOnDemand": true,
-  "typescript.updateImportsOnFileMove.enabled": "always",
   "todo-tree.tree.showScanModeButton": false,
   "todo-tree.highlights.enabled": false,
   "todohighlight.keywords": [
@@ -55,10 +48,6 @@
     "**/*.scss",
     "**/*.purs"
   ],
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "[purescript]": {
-    "editor.defaultFormatter": "mvakula.vscode-purty"
-  },
   // "vim.easymotion": true,
   "vim.incsearch": true,
   "vim.useSystemClipboard": true,
@@ -83,5 +72,10 @@
   ],
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[purescript]": {
+    "editor.defaultFormatter": "mvakula.vscode-purty"
+  },
+  "cSpell.userWords": ["adriel", "kirrus", "matei", "mateiadrielrafael", "tsdx"]
 }
