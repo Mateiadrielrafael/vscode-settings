@@ -26,6 +26,8 @@
   "workbench.editor.labelFormat": "short",
   "editor.formatOnType": true,
   "editor.minimap.enabled": false,
+  "editor.tabCompletion": "on",
+  "workbench.editor.showTabs": false,
   "explorer.autoReveal": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
