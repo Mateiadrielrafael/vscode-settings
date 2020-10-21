@@ -25,6 +25,7 @@
   "workbench.editor.untitled.labelFormat": "content",
   "workbench.editor.labelFormat": "short",
   "editor.formatOnType": true,
+  "editor.minimap.enabled": false,
   "explorer.autoReveal": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
