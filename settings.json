@@ -24,6 +24,7 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.untitled.labelFormat": "content",
   "workbench.editor.labelFormat": "short",
+  "editor.formatOnType": true,
   "explorer.autoReveal": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
