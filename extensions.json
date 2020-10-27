@@ -1,6 +1,7 @@
 [
 	"adpyke.codesnap",
 	"ahmadawais.shades-of-purple",
+	"ajshortt.tokyo-hack",
 	"andrewvallette.zeonica",
 	"ankitcode.firefly",
 	"anseki.vscode-color",
@@ -19,6 +20,7 @@
 	"eamodio.gitlens",
 	"enkia.tokyo-night",
 	"esbenp.prettier-vscode",
+	"ezzak.nighthawk",
 	"file-icons.file-icons",
 	"Gruntfuggly.todo-tree",
 	"GulajavaMinistudio.mayukaithemevsc",
@@ -43,11 +45,15 @@
 	"RobbOwen.synthwave-vscode",
 	"rozbo.papercolor-vscode",
 	"rust-lang.rust",
+	"sdras.night-owl",
 	"shades-of-blue.shades-of-blue",
+	"shubham-saudolla.lilac",
 	"streetsidesoftware.code-spell-checker",
 	"teabyii.ayu",
 	"ultram4rine.vscode-choosealicense",
 	"vscodevim.vim",
 	"WakaTime.vscode-wakatime",
-	"wayou.vscode-todo-highlight"
+	"wayou.vscode-todo-highlight",
+	"webrender.synthwave-x-fluoromachine",
+	"xaver.theme-ysgrifennwr"
 ]
