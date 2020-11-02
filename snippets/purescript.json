@@ -18,7 +18,7 @@
     "body": "derive instance generic$1 :: Generic $1 _"
   },
   "Generic Debug": {
-    "prefix": "debug",
+    "prefix": "gdebug",
     "description": "Generate generic debug instances",
     "body": ["instance debug$1 :: Debug $1 where", "  debug = genericDebug"]
   },
