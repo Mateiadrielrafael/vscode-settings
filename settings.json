@@ -30,6 +30,7 @@
   "window.zoomLevel": 2,
   "license.author": "Matei Adriel",
   "extensions.showRecommendationsOnlyOnDemand": true,
+  "gitlens.codeLens.enabled": false,
   "todo-tree.tree.showScanModeButton": false,
   "todo-tree.highlights.enabled": false,
   "todohighlight.keywords": [
