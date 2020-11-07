@@ -7,7 +7,7 @@
   "workbench.editor.untitled.labelFormat": "content",
   "workbench.editor.labelFormat": "short",
   "workbench.editor.showTabs": false,
-  "workbench.iconTheme": "helium-icon-theme",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "SynthWave '84",
   "explorer.autoReveal": true,
   "explorer.confirmDragAndDrop": false,
