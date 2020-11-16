@@ -31,5 +31,10 @@
       "instance decodeJson$1 :: DecodeJson $1 where",
       "  decodeJson = genericDecodeJson"
     ]
+  },
+  "Instance": {
+    "prefix": "instance",
+    "description": "Declare typeclass instance",
+    "body": ["instane $1$2 :: $3 where", "    $0"]
   }
 }
