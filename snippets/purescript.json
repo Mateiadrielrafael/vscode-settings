@@ -41,5 +41,10 @@
     "prefix": "pinstance",
     "description": "Declare typeclass instance with parenthesis",
     "body": ["instance $1$2 :: $3 ($2 $4) $5 where", "    $0"]
+  },
+  "SProxy": {
+    "prefix": "sproxy",
+    "description": "Generate a sproxy constant",
+    "body": ["_$1 :: SProxy \"$1\"", "_$1 = SProxy"]
   }
 }
