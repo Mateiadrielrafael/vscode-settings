@@ -46,5 +46,24 @@
     "prefix": "sproxy",
     "description": "Generate a sproxy constant",
     "body": ["_$1 :: SProxy \"$1\"", "_$1 = SProxy"]
+  },
+  "Variant constructor": {
+    "prefix": "inj",
+    "description": "Generate a constructor for a variant an inline sproxy",
+    "body": [
+      "$1 :: forall r. $2 -> Variant ( $1 :: $2 | r)",
+      "$1 = inj (SProxy :: SProxy \"$1\")"
+    ]
+  },
+  "Full variant constructor": {
+    "prefix": "injf",
+    "description": "Generate a constructor for a variant with an external sproxy definition",
+    "body": [
+      "$1 :: forall r. $2 -> Variant ( $1 :: $2 | r)",
+      "$1 = inj _$1",
+      "",
+      "_$1 :: SProxy \"$1\"",
+      "_$1 = SProxy"
+    ]
   }
 }
