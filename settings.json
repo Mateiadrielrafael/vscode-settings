@@ -27,7 +27,7 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "discord.workspaceElapsedTime": true,
   "discord.detailsEditing": "Editing {filename} 🚰",
-  "window.zoomLevel": 1,
+  "window.zoomLevel": -8,
   "license.author": "Matei Adriel",
   "extensions.showRecommendationsOnlyOnDemand": true,
   "gitlens.codeLens.enabled": false,
