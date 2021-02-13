@@ -80,4 +80,6 @@
     "editor.formatOnSave": false
   },
   "cSpell.userWords": ["adriel", "kirrus", "matei", "mateiadrielrafael", "tsdx"]
+  , "FSharp.useSdkScripts": true
+
 }
