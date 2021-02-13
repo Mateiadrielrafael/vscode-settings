@@ -79,10 +79,15 @@
     "editor.defaultFormatter": "mvakula.vscode-purty",
     "editor.formatOnSave": false
   },
-  "cSpell.userWords": ["adriel", "kirrus", "matei", "mateiadrielrafael", "tsdx"]
-  ,
-  
-  
-  "FSharp.useSdkScripts": true
-
+  "cSpell.userWords": [
+    "adriel",
+    "kirrus",
+    "matei",
+    "mateiadrielrafael",
+    "tsdx"
+  ],
+  "FSharp.useSdkScripts": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
