@@ -19,6 +19,7 @@
 		"**/globalStorage/arnohovhannisyan.syncify/repo",
 		"**/globalStorage/ms-vsliveshare.vsliveshare",
 		"**/globalStorage/haskell.haskell",
+		"**/globalStorage/atklad.rust-analyzer",
 		"**/.git"
 	],
 	"autoUploadDelay": 20,
