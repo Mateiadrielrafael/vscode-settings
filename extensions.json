@@ -50,7 +50,6 @@
 	"naumovs.color-highlight",
 	"nwolverson.ide-purescript",
 	"nwolverson.language-purescript",
-	"panaeon.vscode-dhall-lsp-server",
 	"Perkovec.emoji",
 	"PKief.material-icon-theme",
 	"RobbOwen.synthwave-vscode",
@@ -65,7 +64,6 @@
 	"ultram4rine.vscode-choosealicense",
 	"vscode-icons-team.vscode-icons",
 	"vscodevim.vim",
-	"WakaTime.vscode-wakatime",
 	"wayou.vscode-todo-highlight",
 	"webrender.synthwave-x-fluoromachine",
 	"xaver.theme-ysgrifennwr"
