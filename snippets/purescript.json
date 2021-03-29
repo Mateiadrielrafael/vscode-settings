@@ -20,7 +20,10 @@
   "Generic Debug": {
     "prefix": "gdebug",
     "description": "Generate generic debug instances",
-    "body": ["instance debug$1 :: Debug $1 where", "  debug = genericDebug"]
+    "body": [
+      "instance debug$1 :: Debug $1 where",
+      "  debug = genericDebug"
+    ]
   },
   "Generic json": {
     "prefix": "gjson",
@@ -35,22 +38,34 @@
   "Instance": {
     "prefix": "instance",
     "description": "Declare typeclass instance",
-    "body": ["instance $1$2 :: $3 $2 $4 where", "    $0"]
+    "body": [
+      "instance $1$2 :: $3 $2 $4 where",
+      "    $0"
+    ]
   },
   "PInstance": {
     "prefix": "pinstance",
     "description": "Declare typeclass instance with parenthesis",
-    "body": ["instance $1$2 :: $3 ($2 $4) $5 where", "    $0"]
+    "body": [
+      "instance $1$2 :: $3 ($2 $4) $5 where",
+      "    $0"
+    ]
   },
   "SProxy": {
-    "prefix": "sproxy",
-    "description": "Generate a sproxy constant",
-    "body": ["_$1 :: SProxy \"$1\"", "_$1 = SProxy"]
+    "prefix": "proxy",
+    "description": "Generate a proxy constant",
+    "body": [
+      "_$1 :: Proxy \"$1\"",
+      "_$1 = Proxy"
+    ]
   },
   "Proxy": {
     "prefix": "proxy",
     "description": "Generate a proxy constant",
-    "body": ["_$1 :: Proxy $1", "_$1 = Proxy"]
+    "body": [
+      "_$1 :: Proxy $1",
+      "_$1 = Proxy"
+    ]
   },
   "Variant constructor": {
     "prefix": "inj",
