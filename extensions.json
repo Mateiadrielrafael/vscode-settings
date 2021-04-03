@@ -52,6 +52,7 @@
 	"nwolverson.language-purescript",
 	"Perkovec.emoji",
 	"PKief.material-icon-theme",
+	"ritwickdey.LiveServer",
 	"RobbOwen.synthwave-vscode",
 	"rozbo.papercolor-vscode",
 	"runem.lit-plugin",
