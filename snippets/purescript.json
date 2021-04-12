@@ -93,5 +93,10 @@
       "_$1 :: SProxy \"$1\"",
       "_$1 = SProxy"
     ]
+  },
+  "Functor": {
+    "prefix": "functor",
+    "description": "Derive a Functor instance",
+    "body": "derive instance functor$1 :: Functor $1$0"
   }
 }
