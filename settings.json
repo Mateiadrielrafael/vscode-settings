@@ -8,7 +8,7 @@
   "workbench.editor.labelFormat": "short",
   "workbench.editor.showTabs": false,
   "workbench.iconTheme": "vscode-icons",
-  "workbench.colorTheme": "Ayu Dark",
+  "workbench.colorTheme": "Ayu Light",
   "explorer.autoReveal": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.compactFolders": false,
